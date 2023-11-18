@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "805140147122",
+    "project_id": "newtask-77f87",
+    "storage_bucket": "newtask-77f87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805140147122:android:bba7fb80531ba7e91b92ab",
+        "android_client_info": {
+          "package_name": "com.example.newtaskharshita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdhbWU7jg4d0IDrU4BBkhdxNlkl5wh0CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
